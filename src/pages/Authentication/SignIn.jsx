@@ -1,8 +1,8 @@
 import React from 'react';
 import DefaultLayout from '../../layout/DefaultLayout';
 import Breadcrumb from '../../components/Breadcrumb';
-import Logo from '../../images/logo/LOGO.png'
-import LogoDark from '../../images/logo/logo-darkbg.png'
+import Logo from '/src/images/logo/LOGO.png'
+import LogoDark from '/src/images/logo/logo-darkbg.png'
 import { Link } from 'react-router-dom'
 
 const SignIn = () => {
